@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JavierChico
-- 👀 I’m interested in Computational Fluid Dynamics and Numerical techniques for PDEs
+- 👀 I’m interested in Applied and Computational Mathematics
 
 <!---
 JavierChico/JavierChico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
